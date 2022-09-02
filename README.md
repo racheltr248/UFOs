@@ -15,6 +15,8 @@ In action, the filters can be used one at a time or together to produce desired 
 
 ![Filters in use](./report_images/filters_in_use.PNG)
 
+The page for the final project can be found here: https://racheltr248.github.io/UFOs/
+
 ## Summary
 While the final webpage is dynamic and provides the desired filters, there are some issues that could be rectified with additional development. 
 
